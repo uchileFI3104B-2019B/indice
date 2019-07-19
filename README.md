@@ -8,5 +8,5 @@
 
 ## TAREAS
 
-- [Tarea 1: 14-Agosto 23:59 hrs](https://github.com/uchileFI3104B-2019B/01-tarea)
+- [Tarea 1: 14-Agosto 23:59 hrs](https://github.com/uchileFI3104B-2019B/01-tarea): Derivadas e Integrales Numéricas.
  
