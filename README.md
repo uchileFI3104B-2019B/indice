@@ -5,6 +5,7 @@
 - [Informacion general](https://github.com/uchileFI3104B-2019b/info-general)
 
 ## DEMOS
+- [Informe Ejemplo](https://github.com/uchileFI3104B-2019B/informe-ejemplo)
 - [Precisión Numérica y Derivadas](https://github.com/uchileFI3104B-2019B/demo-precision-derivada)
 
 ## TAREAS
