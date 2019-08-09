@@ -7,6 +7,7 @@
 ## DEMOS
 - [Informe Ejemplo](https://github.com/uchileFI3104B-2019B/informe-ejemplo)
 - [Precisión Numérica y Derivadas](https://github.com/uchileFI3104B-2019B/demo-precision-derivada)
+- [Demo Raíces de una Función](https://github.com/uchileFI3104B-2019B/demo-raices)
 
 ## TAREAS
 
