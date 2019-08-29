@@ -13,3 +13,4 @@
 
 - [Tarea 1: 14-Agosto 23:59 hrs](https://github.com/uchileFI3104B-2019B/01-tarea): Derivadas e Integrales Numéricas.
 - [Tarea 2: 28-Agosto 23:59 hrs](https://github.com/uchileFI3104B-2019B/02-tarea): Búsqueda de Ceros.
+- [Tarea 3: 04-Septiembre 23:59hrs](https://github.com/uchileFI3104B-2019B/03-tarea): Interpolación.
