@@ -12,6 +12,7 @@
 - [Runge-Kutta](https://github.com/uchileFI3104B-2019B/demo-rk2)
 - [OOP, EDOs](https://github.com/uchileFI3104B-2019B/demo-oop)
 - [Sobre-relajacion](https://github.com/uchileFI3104B-2019B/demo-sobre-relajacion)
+- [Crank-Nicolson](https://github.com/uchileFI3104B-2019B/demo-crank-nicolson)
 
 ## TAREAS
 
