@@ -13,6 +13,7 @@
 - [OOP, EDOs](https://github.com/uchileFI3104B-2019B/demo-oop)
 - [Sobre-relajacion](https://github.com/uchileFI3104B-2019B/demo-sobre-relajacion)
 - [Crank-Nicolson](https://github.com/uchileFI3104B-2019B/demo-crank-nicolson)
+- [Estimación Bayesiana de Parámetros](https://github.com/uchileFI3104B-2019B/demo-bayes)
 
 ## TAREAS
 
